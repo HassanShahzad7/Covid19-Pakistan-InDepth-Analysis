@@ -1,6 +1,5 @@
 # Covid19-Pakistan-InDepth-Analysis
 
-### Note: Along with the python code another .ipynb file is added to directly view the running code instead of fitting the SVM. 
 
 ## Data Exploration Challenge:
 
@@ -58,5 +57,6 @@ Score in later 22 days = (- ( mean of later 22 days Active Cases / population pe
 
  The number of cumulative positive cases in the next 10 days were predicted using Support Vector Regressor.
 
+### Note: Along with the python code another .ipynb file is added to directly view the running code instead of fitting the SVM. 
 
 
